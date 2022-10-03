@@ -1,3 +1,1 @@
 # todo-app-server
-
-todo
